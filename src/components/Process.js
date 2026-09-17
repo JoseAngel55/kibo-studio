@@ -63,12 +63,12 @@ export default function Process() {
           <p className="text-xs text-gray-600 mt-0.5">Te orientamos sin compromiso sobre la mejor opción tecnológica para tu empresa.</p>
         </div>
         <a
-          href="https://wa.me/"
+          href="https://www.facebook.com/profile.php?id=61594691480083"
           target="_blank"
           rel="noopener noreferrer"
           className="whitespace-nowrap text-xs font-semibold bg-gray-900 text-white px-4 py-2.5 rounded-lg hover:bg-gray-800 transition-colors"
         >
-          Consultar por WhatsApp
+          Consulta nuestro Facebook para más información
         </a>
       </div>
     </section>

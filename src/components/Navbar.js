@@ -17,12 +17,12 @@ export default function Navbar() {
             Proceso
           </a>
           <a
-            href="https://wa.me/"
+            href="https://www.facebook.com/profile.php?id=61594691480083"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs font-medium uppercase tracking-wider bg-gray-900 text-white px-4 py-2.5 rounded-md hover:bg-gray-800 transition-colors"
           >
-            Cotizar por WhatsApp
+            Contáctanos
           </a>
         </nav>
       </div>

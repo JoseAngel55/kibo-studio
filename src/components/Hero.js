@@ -19,12 +19,12 @@ export default function Hero() {
       {/* Botones de Acción */}
       <div className="flex flex-col sm:flex-row gap-4">
         <a
-          href="https://wa.me/"
+          href="https://www.facebook.com/profile.php?id=61594691480083"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center text-sm font-medium bg-emerald-600 text-white px-6 py-3.5 rounded-lg hover:bg-emerald-700 shadow-sm shadow-emerald-600/20 transition-all"
         >
-          Iniciar una consulta gratuita
+          Contactanos por Facebook
         </a>
         {/*<a
           href="#proyectos"
